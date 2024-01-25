@@ -1,0 +1,11 @@
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\bin\Debug\net5.0\Domain.dll
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.dll
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Projetos\_ProjetoTeste\GestaoProdutos2\Domain\obj\Debug\net5.0\ref\Domain.dll
